@@ -4,7 +4,6 @@
 - 🌱 Estudando Java, Angular e Typescript
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polyneuland&show_icons=true&theme=aura_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polyneuland&layout=compact&theme=aura_dark" />
 </div>
 
