@@ -1,14 +1,8 @@
-## Olá! Eu sou a Polyana Neuland!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7A8B8&size=25&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+a+Polyana+Neuland!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - 🔭 Estagiária no Itaipu Parquetec - Desenvolvimento em C# e Unity
 - 🌱 Estudando Java, Angular e Typescript
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polyneuland&layout=compact&theme=aura_dark" />
-</div>
-
-<div align="center">
-  
 ## 🚀 Tecnologias que utilizo
 
 </div>
