@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E1E90&size=25&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+a+Polyana+Neuland!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+
 - 🔭 Estagiária no Itaipu Parquetec - Desenvolvimento em C# e Unity
 - 🌱 Estudando Java, Angular e Typescript
 
