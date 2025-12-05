@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7A8B8&size=25&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+a+Polyana+Neuland!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E1E90&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E1E90&size=25&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+a+Polyana+Neuland!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - 🔭 Estagiária no Itaipu Parquetec - Desenvolvimento em C# e Unity
 - 🌱 Estudando Java, Angular e Typescript
@@ -34,3 +36,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E1E90&height=120&section=footer"/>
